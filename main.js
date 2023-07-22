@@ -1,5 +1,5 @@
 function setup(){
-  canvas=createCanvas(350, 350);
+  canvas=createCanvas(300, 300);
 canvas.position(560,150);
 video=createCapture( VIDEO );
 video.size(550, 500);
